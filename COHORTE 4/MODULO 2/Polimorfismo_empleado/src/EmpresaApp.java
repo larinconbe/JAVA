@@ -6,11 +6,13 @@ public class EmpresaApp {
         var empleado2= new Empleado("Gloria", "02", "Ventas");
         var empleado3 = new Empleado("Juana", "03", 413.3, "Logistica");
         var empleado4 = new Empleado ("Sandra", "04", 450, "Almacen");
+        var empleado5 = new Empleado ("Nidia", "05", 600, "Estilista");
 
         empleado1.mostrarInformacion();
         empleado2.mostrarInformacion();
         empleado3.mostrarInformacion();
         empleado4.mostrarInformacion();
+        empleado5.mostrarInformacion();
 
         empleado1.setDepartamento("Seguridad de la informacion");
         empleado3.setSalarioMensual(550);
@@ -20,6 +22,10 @@ public class EmpresaApp {
 
         var salarioanualempleado3 = empleado3.calcularSalarioAnual();
         System.out.println("El salario anual del empleado 3 es: " + salarioanualempleado3);
+
+
+        var salarioanualempleado5 = empleado5.calcularSalarioAnual();
+        System.out.println("El salario anual del empleado 5 es: " + salarioanualempleado5);
 
         //empleado4.nombreCompleto = "Nuevo nombre";
 
