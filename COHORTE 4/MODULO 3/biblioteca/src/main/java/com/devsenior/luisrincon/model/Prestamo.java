@@ -7,6 +7,12 @@ public class Prestamo {
     private Lector lector;
     private Copia copia;
 
+    public Prestamo(Lector lector, Copia copia) {
+        this.lector = lector;
+        this.copia = copia;
+        fechaPrestamo = LocalDate.now();
+    }
+
     public LocalDate getFechaPrestamo() {
         return fechaPrestamo;
     }

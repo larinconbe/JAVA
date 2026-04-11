@@ -8,6 +8,7 @@ public class Libro {
     private Autor autor;
     private TipoLibro tipo;
 
+
     public String getNombre() {
         return nombre;
     }
