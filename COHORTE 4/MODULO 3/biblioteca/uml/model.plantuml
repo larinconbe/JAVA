@@ -1,0 +1,56 @@
+@startuml Modelo de datos de biblioteca
+
+
+class Libro{
+    - String nombre
+    - String editorial
+    - Integer Anio
+
+}
+
+enum TipoLibro{
+    NOVELA
+    TEATRO
+    POESIA
+    ENSAYO
+}
+
+class Autor{
+    - String nombre
+    - String nacionalidad
+    - Date fechaDeNacimiento
+}
+
+class Copia{
+    - Integer identificador
+
+
+}
+
+enum EstadoCopia{
+    BIBLIOTECA
+    PRESTADA
+    CON_RETRASO
+    EN_REPARACION
+}
+
+class Prestamo{
+    - Date fechaPrestamo
+}
+
+
+
+class Lector{
+    - String nombre
+    - Boolean fechaMulta
+
+}
+
+Libro -left-> TipoLibro : tipo
+Autor "1" -- "1..*" Libro
+Copia -right-> EstadoCopia : estado
+Libro *-right- Copia
+(Lector, Copia) -- Prestamo
+
+
+@enduml

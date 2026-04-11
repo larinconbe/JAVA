@@ -1,4 +1,4 @@
-package com.devsenior.luisrincon;
+package com.devsenior.luisrincon.app;
 
 public class Main {
     public static void main(String[] args) {

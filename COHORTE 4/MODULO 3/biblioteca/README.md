@@ -8,3 +8,5 @@ Cada copia tiene un identificador, y puede estar en la biblioteca, prestada, con
 - Cada libro se presta un máximo de 30 días, por cada día de retraso, se impone una multa de dos días sin posibilidad de pedir un nuevo libro.
 
 ## Modelado de datos
+
+![Modelo de datos](uml/modelo.png)
