@@ -1,0 +1,37 @@
+@startuml gestionusuarios
+
+enum Rol {
+    ADMINISTRADOR
+    ESTANDAR
+}
+
+class Usuario {
+    - String id
+    - String nombreCompleto
+    - String username
+    - String password
+    - Rol Rol
+    - Accion[] historial
+    - int contadorAcciones
+}
+
+class Accion{
+    - String descripcion
+    - long timestamp
+}
+
+class UsuarioService{
+    - Usuario[] usuarios
+    - int contadorusuarios
+}
+
+class UsuarioController{
+    - UsuarioService servicio
+}
+
+Usuario "1" *-right- "0..100" Accion : historial
+UsuarioService "1" o-- "0..50" Usuario : gestiona
+UsuarioController --> UsuarioService : usa
+Usuario -left-> Rol : usa
+
+@enduml
