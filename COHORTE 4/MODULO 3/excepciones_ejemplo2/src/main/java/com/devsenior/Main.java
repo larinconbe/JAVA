@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws DivisionInvalidException {
-        //ejemplo1();
+        // ejemplo1();
         ejemplo2();
 
     }
@@ -82,7 +82,7 @@ public class Main {
             // denominador es cero.
             throw new DivisionInvalidException("El denominador no puede ser cero.");
         }
-        
+
         // Almacena el resultado
         int resultado = numerador / denominador; // excepción si denominador es cero
         // Imprime el resultado si el denominador es diferente de cero
