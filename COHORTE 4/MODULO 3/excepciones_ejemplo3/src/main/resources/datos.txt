@@ -1,0 +1,6 @@
+Este es el archivo que va a leer
+el programa creado para leer archvos 
+linea por linea
+creado con el objeto lector
+instanciado de la clase 
+BufferedReader
