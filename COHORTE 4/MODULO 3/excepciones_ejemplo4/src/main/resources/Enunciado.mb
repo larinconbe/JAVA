@@ -1,0 +1,5 @@
+Sistema de gestion de pedidos:
+Verificar stock antes de procesar una orden,
+si el producto no existe o si el stock es 
+insfuciente se deben lanzar excepciones 
+personalizadas.
