@@ -1,0 +1,56 @@
+2026-06-05 00:24:34 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 00:24:34 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 00:24:34 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 11:46:24 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 11:46:24 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 11:46:24 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 11:46:52 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 11:46:52 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 11:46:52 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 11:46:52 INFO  Main:25 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 11:46:52 INFO  Main:26 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 11:47:32 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 11:47:32 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 11:47:32 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 11:47:32 INFO  Main:24 - Despues de aumentar salario
+2026-06-05 11:47:32 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 11:47:32 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 11:47:48 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 11:47:48 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 11:47:48 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 11:47:48 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 11:47:48 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 11:47:48 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 12:29:16 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 12:29:16 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 12:29:16 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 12:29:16 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 12:29:16 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 12:29:16 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 21:23:34 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 21:23:34 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 21:23:34 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 21:23:34 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 21:23:34 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 21:23:34 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 21:31:55 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 21:31:55 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 21:31:55 INFO  Main:19 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 21:31:55 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 21:31:55 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 21:31:55 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 21:39:47 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 21:39:47 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 21:39:47 INFO  Main:19 - Informacion del gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 21:39:47 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 21:39:47 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 21:39:47 INFO  Main:27 - Informacion dle gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 21:39:47 INFO  Main:31 - Informacion del nuevo empleado: Empleado {nombre = 'Carlos', edad = 29, salario = 1400000.0}
+2026-06-05 21:41:54 INFO  Main:11 - Iniciando la aplicacion
+2026-06-05 21:41:54 INFO  Main:18 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 1500000.0}
+2026-06-05 21:41:54 INFO  Main:19 - Informacion del gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 1800000.0}
+2026-06-05 21:41:54 INFO  Main:24 - Despues de aumentar salario:
+2026-06-05 21:41:54 INFO  Main:26 - Informacion del empleado Empleado {nombre = 'Juan', edad = 22, salario = 2000000.0}
+2026-06-05 21:41:54 INFO  Main:27 - Informacion del gerente: Gerente { departamento = 'Compras'} Empleado {nombre = 'Cristian', edad = 31, salario = 2400000.0}
+2026-06-05 21:41:54 INFO  Main:31 - Informacion del nuevo empleado: Empleado {nombre = 'Carlos', edad = 29, salario = 1400000.0}
+2026-06-05 21:41:54 INFO  Main:34 - Nuevo salario del empleado 2: Empleado {nombre = 'Carlos', edad = 29, salario = 3000000.0}
