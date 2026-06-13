@@ -28,14 +28,14 @@ public class Main {
 
         Empleado emp2 = new Empleado("Carlos", 29, 1400000);
 
-        logger.info("Informacion del nuevo empleado: " +emp2);
+        logger.info("Informacion del nuevo empleado: " + emp2);
         emp2.aumentarSalario(1600000);
 
         logger.info("Nuevo salario del empleado 2: " + emp2);
 
         Empleado emp3 = new Empleado("Joaquin", 36, 2000000);
 
-        logger.info("Informacion de los empleados " + emp1 + emp2 + emp3 );
+        logger.info("Informacion de los empleados " + emp1 + emp2 + emp3);
 
     }
 }
