@@ -1,0 +1,11 @@
+##
+GET http://localhost:8080/api/libros
+###
+POST http://localhost:8080/api/libros
+Content-Type: application/json
+
+{
+    "isbn": "L01",
+    "titulo": "Spring Boot",
+    "autor": "Lideres del futuro"
+}
